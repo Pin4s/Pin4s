@@ -23,5 +23,5 @@
 
 Aprofundando meus conhecimentos nas tecnologias mais poderosas de desenvolvimento! 🚀
 
-## Último projeto:
+## Projeto em destaque:
  - [Nearby - React Native](https://github.com/Pin4s/Nearby)
