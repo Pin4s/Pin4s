@@ -24,5 +24,5 @@
 Aprofundando meus conhecimentos nas tecnologias mais poderosas de desenvolvimento! 🚀
 
 ## Projeto em destaque:
- - [Task Manager - API | Node.js](https://github.com/Pin4s/API-RESTaurant)
- - [Restaurant API | Node.js](https://github.com/Pin4s/API-RESTaurant)
+ - [Task Manager  | Node.js](https://github.com/Pin4s/TaskManagerAPI)
+ - [RestaurantAPI | Node.js](https://github.com/Pin4s/API-RESTaurant)
