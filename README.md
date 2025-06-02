@@ -24,4 +24,5 @@
 Aprofundando meus conhecimentos nas tecnologias mais poderosas de desenvolvimento! 🚀
 
 ## Projeto em destaque:
- - [Nearby - React Native](https://github.com/Pin4s/Nearby)
+ - [Task Manager - API | Node.js](https://github.com/Pin4s/API-RESTaurant)
+ - [Restaurant API | Node.js](https://github.com/Pin4s/API-RESTaurant)
